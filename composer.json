@@ -1,5 +1,5 @@
 {
-    "name": "andytranhung/flysystem-onedrive",
+    "name": "justus/flysystem-onedrive",
     "description": "A flysystem driver for OneDrive that uses the Microsoft Graph API",
     "keywords": [
         "flysystem-onedrive",
